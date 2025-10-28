@@ -1,14 +1,20 @@
 # 👥 Culture-Mate
 
+
+
 <div align="center">
 
-  ### 문화 생활을 함께 즐기는 커뮤니티 플랫폼
+  ### 문화 생활을 함께 즐기는 커뮤니티 플랫폼 🌐 [Live Demo 바로가기](https://culturemate.khoon.kr)
 
   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.5-6DB33F?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
   [![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
   [![Next.js](https://img.shields.io/badge/Next.js-15.4.4-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 
+  **테스트 계정**  
+  📧 ID: `user1 ~ 20`  
+  🔑 PW: `user@1234`
+  
 </div>
 
 ## 📦 Repositories
