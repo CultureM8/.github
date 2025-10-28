@@ -29,7 +29,6 @@
 RESTful API • JWT Auth • WebSocket
 Spring Security • JPA/Hibernate
 
-[📚 API Documentation](https://github.com/CultureM8/culture-mate-BACK#api-documentation) | [🚀 Getting Started](https://github.com/CultureM8/culture-mate-BACK#getting-started)
 
 </div>
 
@@ -47,7 +46,6 @@ Spring Security • JPA/Hibernate
 App Router • Tailwind CSS • Axios
 Real-time Chat • Responsive Design
 
-[🎯 Live Demo](https://culture-mate.vercel.app) | [📖 Documentation](https://github.com/CultureM8/culture-mate-FRONT#documentation)
 
 </div>
 
